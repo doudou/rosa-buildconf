@@ -16,6 +16,8 @@ package_sets:
 layout:
    - rock.base
    - rock.toolchain
+   - slam/octomap
+   - drivers/gsf
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
    # - rock.ros
